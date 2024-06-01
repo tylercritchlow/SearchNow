@@ -1,0 +1,21 @@
+body {
+    background-color: #242424;
+    padding: 10px;
+    border-radius: 12px;
+    align-items: center;
+}
+
+h1 {
+    color: #ffffff;
+    font-family: 'Arial', sans-serif;
+}
+
+container {
+    direction: column;
+    align-items: center;
+    margin-top: 120px;
+}
+
+search-box {
+    align-items: center;
+}
